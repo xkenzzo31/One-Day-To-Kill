@@ -1,2 +1,2 @@
 #One Day To Kill
-hello world
+Application réalisée dans le cadre d'un hackaton spécial "Jeux Mobile"
